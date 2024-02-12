@@ -1,6 +1,6 @@
 # Maven-Analytics-Power-BI-Project
 
-This project was from Udemy Course - _Microsoft Power BI Desktop for Business Intelligence_
+This project is from Udemy Course - _Microsoft Power BI Desktop for Business Intelligence_
 
 ## Situation
 I’ve just been hired as a Business Intelligence Analyst by AdventureWorks*, a global manufacturing company that produces cycling equipment and accessories
