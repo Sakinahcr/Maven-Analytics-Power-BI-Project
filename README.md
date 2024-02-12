@@ -19,3 +19,19 @@ All I’ve been given is a folder of raw csv files, which contain information ab
 • Design an interactive dashboard to visualize the data
 
 ## Visualisation
+
+Produced 4-pages interactive dashboard.
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Power-BI-Project/assets/132161850/f63ac5be-1f54-4708-8087-0b3d953de531)
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Power-BI-Project/assets/132161850/00cb5ee1-a687-4eee-a42a-0088670334bc)
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Power-BI-Project/assets/132161850/b64da42d-3b86-48c1-9f63-06c20d29a4e2)
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Power-BI-Project/assets/132161850/619acfbf-3a6d-474e-a604-d7e387cf87e8)
+
+
+
+
+
+
